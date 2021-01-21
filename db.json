@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+      "product_id": 1,
+      "product_name": "Product Name 1",
+      "product_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
+      "product_mrp": "100",
+      "product_price": "100",
+      "product_hasvariants": true,
+      "product_available": true,
+      "variants": [
+        {
+          "variant_id": 1,
+          "variant_name": "200 gms",
+          "variant_mrp": "300",
+          "variant_price": "100",
+          "variant_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
+          "variant_available": true
+        },
+        {
+          "variant_id": 1,
+          "variant_name": "200 gms",
+          "variant_mrp": "300",
+          "variant_price": "100",
+          "variant_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
+          "variant_available": true
+        },
+        {
+          "variant_id": 1,
+          "variant_name": "200 gms",
+          "variant_mrp": "300",
+          "variant_price": "100",
+          "variant_image": "https://qph.fs.quoracdn.net/main-qimg-719b5a33bb4fc7372e708f527cbe3cd3",
+          "variant_available": true
+        }
+      ]
+    }
+  ]
+}
